@@ -4,7 +4,7 @@
 
 ## useState:
 
-```
+```react-javascript
 import { useState } from "react";
 
 function StateExample() {
@@ -32,7 +32,7 @@ export default StateExample
 
 ## useEffect
 
-```
+```react-javascript
 import { useEffect, useState } from "react";
 import axios from "axios";
 
